@@ -4,7 +4,7 @@
 <details>
   <summary>Screenshots</summary>
   
-![Git Basics](https://)
+![Git Basics](https://github.com/obond3006/kottans-frontend/blob/main/Introduction%20to%20Git%20and%20GitHub/Git-1.png)
 ![Git Remote](https://)
 </details>
 
